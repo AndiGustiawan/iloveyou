@@ -8,6 +8,18 @@
     font-family: 'Arimo', sans-serif;
     
 
+/* Jika ukuran layar 680px atau kurang dari itu */
+
+@media screen and (max-width:680px){
+
+	#maincontent{
+		width: auto;
+		float: none;
+	}
+	#sidebar{
+		width: auto;
+		float: none;
+	}
 }
 body {
     background-color: linear-gradient( #EE7752, #E73C7E, #23A6D5,#23D5AB);
