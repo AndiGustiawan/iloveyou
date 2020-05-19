@@ -292,21 +292,6 @@ h1:hover {
 } 
 
 /*mediaquery jancok */
-
- @media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-  .textme {
-      width:95%;
-  }
-  .btn.btn-big, .btn.btn-big2  {
-      margin-left: -60px;
-  } 
-   .jancuk {
-     width:100%;
-     
-   }
   
 @media screen and (max-width: 960px) {
  
